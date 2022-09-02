@@ -88,6 +88,8 @@ function deleteItemList(e) {
 }
 
 
+//need help blya
+
 
 
 function renderItem (item) { 
