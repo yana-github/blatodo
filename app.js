@@ -85,10 +85,10 @@ function getText() {
 
 function deleteItemList(e) {
 
+// ASasASas
 
 
 
-  
   ul.innerHTML = '';
   clearStorage();
 }
