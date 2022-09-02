@@ -77,6 +77,7 @@ function getDate() {
 }
 
 function getText() {
+  // asdsadsad
   let itemText = formInput.value;
   return itemText;
 }
