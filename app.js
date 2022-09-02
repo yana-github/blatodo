@@ -81,7 +81,7 @@ function getText() {
   let itemText = formInput.value;
   return itemText;
 }
-
+//need commit
 
 function deleteItemList(e) {
   ul.innerHTML = '';
