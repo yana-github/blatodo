@@ -84,6 +84,11 @@ function getText() {
 //need commit
 
 function deleteItemList(e) {
+
+// ASasASas
+
+
+
   ul.innerHTML = '';
   clearStorage();
 }
