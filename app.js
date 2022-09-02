@@ -74,6 +74,7 @@ console.log(item);
 function getDate() {
   let d = new Date();
   return `${d.getDate()}.${('0' + (d.getMonth() + 1))}.${d.getFullYear()}`;
+  // asdsadasd
 }
 
 function getText() {
