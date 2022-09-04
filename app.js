@@ -1,7 +1,7 @@
 
 const root = document.getElementById('root');
 
-//создать все дом-элементы
+//создать элементы
 function createEl(el) {
   return document.createElement(el)
 }
